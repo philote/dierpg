@@ -7,9 +7,9 @@
   return loadTemplates([
 
     // Actor partials.
-    "systems/fvtt-system-template/templates/actor/parts/actor-features.hbs",
-    "systems/fvtt-system-template/templates/actor/parts/actor-items.hbs",
-    "systems/fvtt-system-template/templates/actor/parts/actor-spells.hbs",
-    "systems/fvtt-system-template/templates/actor/parts/actor-effects.hbs",
+    "systems/dierpg/templates/actor/parts/actor-features.hbs",
+    "systems/dierpg/templates/actor/parts/actor-items.hbs",
+    "systems/dierpg/templates/actor/parts/actor-spells.hbs",
+    "systems/dierpg/templates/actor/parts/actor-effects.hbs",
   ]);
 };

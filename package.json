@@ -1,7 +1,7 @@
 {
-  "name": "fvtt-system-template",
+  "name": "dierpg",
   "version": "1.0.0",
-  "description": "CSS compiler & linting for the fvtt-system-template",
+  "description": "CSS compiler & linting for the dierpg",
   "author": "Joseph Hopson",
   "license": "MIT",
   "private": true,

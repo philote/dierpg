@@ -1,7 +1,7 @@
 {
-    "id": "fvtt-system-template",
-    "title": "FVTT System Template",
-    "description": "A <system name> system for Foundry VTT.",
+    "id": "dierpg",
+    "title": "DIE RPG",
+    "description": "A DIE RPG system for Foundry VTT.",
     "version": "#{VERSION}#",
     "compatibility": {
       "minimum": 11,
@@ -16,8 +16,8 @@
         "reddit": "u/ephson"
       }
     ],
-    "esmodules": ["module/fvtt-system-template.mjs"],
-    "styles": ["css/fvtt-system-template.css"],
+    "esmodules": ["module/dierpg.mjs"],
+    "styles": ["css/dierpg.css"],
     "languages": [
       {
         "lang": "en",
@@ -37,24 +37,24 @@
     "gridUnits": "ft",
     "primaryTokenAttribute": "health",
     "secondaryTokenAttribute": "power",
-    "background": "systems/fvtt-system-template/assets/package_image.webp",
+    "background": "systems/dierpg/assets/package_image.webp",
     "media": [
       {
         "type": "screenshot",
-        "url": "https://raw.githubusercontent.com/philote/fvtt-system-template/main/assets/CD_screenshot.webp",
+        "url": "https://raw.githubusercontent.com/philote/dierpg/main/assets/CD_screenshot.webp",
         "loop": false,
         "caption": "<system name> character sheet screenshot from Foundry VTT."
       },
       {
         "type": "cover",
-        "url": "https://raw.githubusercontent.com/philote/fvtt-system-template/main/assets/cover.webp",
+        "url": "https://raw.githubusercontent.com/philote/dierpg/main/assets/cover.webp",
         "loop": false,
         "caption": "Cover Images for the <system name> package."
       },
       {
         "type": "setup",
-        "url": "https://raw.githubusercontent.com/philote/fvtt-system-template/main/assets/package_image.webp",
-        "thumbnail": "https://raw.githubusercontent.com/philote/fvtt-system-template/main/assets/package_image_thumb.webp"
+        "url": "https://raw.githubusercontent.com/philote/dierpg/main/assets/package_image.webp",
+        "thumbnail": "https://raw.githubusercontent.com/philote/dierpg/main/assets/package_image_thumb.webp"
       }
     ]
   }
